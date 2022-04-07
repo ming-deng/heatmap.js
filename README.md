@@ -1,3 +1,6 @@
+#Leaflet heatmap layer
+Slight modification made to get it to work.
+
 # heatmap.js
 Dynamic Heatmaps for the Web. 
 
