@@ -8,7 +8,7 @@
     "email": "heatmapjs@patrick-wied.at",
     "url": "https://www.patrick-wied.at/"
   },
-  "main": "src/plugis/leaflet-heatmap.js",
+  "main": "src/plugins/leaflet-heatmap.js",
   "devDependencies": {
     "grunt": ">= 0.4.1",
     "coffee-script": ">= 1.6.3",
