@@ -88,6 +88,7 @@
       var point = mapPane._leaflet_pos;      
 
       // reposition the layer
+      this._el.style.position = 'absolute';
       this._el.style[HeatmapOverlay.CSS_TRANSFORM] = 'translate(' +
         -Math.round(point.x) + 'px,' +
         -Math.round(point.y) + 'px)';
