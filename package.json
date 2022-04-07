@@ -8,7 +8,7 @@
     "email": "heatmapjs@patrick-wied.at",
     "url": "https://www.patrick-wied.at/"
   },
-  "main": "plugins/leaflet-heatmap.js",
+  "main": "src/leaflet-heatmap.js",
   "dependencies": {
     "heatmap.js": "*",
     "leaflet": "*"
